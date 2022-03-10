@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://www.rover.com/blog/wp-content/uploads/2019/12/cool-cat-pixabay.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+    padding: 70px 0;
+    
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=text] {
+    border: 2px solid black;
+    border-radius: 4px;
+  }
